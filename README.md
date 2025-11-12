@@ -1,1 +1,1 @@
-project live link ->https://music-app-spotify-clone-omega.vercel.app/
+project live link ->https://sindhu-music.vercel.app/
