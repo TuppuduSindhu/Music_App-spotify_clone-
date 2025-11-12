@@ -1,1 +1,1 @@
-project live link -> https://tuppudusindhu.github.io/music_album-spotify_clone-/
+project live link ->https://music-app-spotify-clone-omega.vercel.app/
