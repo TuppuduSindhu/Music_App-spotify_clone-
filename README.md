@@ -2,8 +2,6 @@ project live link ->https://sindhu-music.vercel.app/
 
 
 ---
-Here is a **professional, interview-ready overall project description** you can paste directly into your README.
-This describes your project the way candidates present in interviews or portfolios.
 
 ---
 
