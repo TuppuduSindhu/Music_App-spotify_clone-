@@ -7,7 +7,7 @@ This describes your project the way candidates present in interviews or portfoli
 
 ---
 
-# 📝 Overall Project Description (Interview-Ready)
+# Overall Project Description 
 
 **Music Mantra** is a fully front-end **Spotify UI clone** built using **HTML, CSS, and JavaScript**.
 The goal of this project is to recreate the core look and feel of Spotify’s web interface and demonstrate my skills in **UI design, component structuring, and JavaScript-based interactivity**.
